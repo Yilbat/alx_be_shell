@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "`whoami` OR "betty""
+echo "betty"
