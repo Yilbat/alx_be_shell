@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Effective betty: $(whoami)"
+echo "Effective username: $(whoami)"
