@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-username=$(whoami)
-echo "Effective Username: $username"
-=======
 chmod u+x,g+x,o+r hello
->>>>>>> e8b9c1837ba411863af42a66cee8938b5cea9370
